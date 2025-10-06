@@ -6,11 +6,6 @@
   <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" alt="Header">
 </div>
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Luiss2080&label=Visitas&color=0e75b6&style=flat" alt="views" />
   <img src="https://img.shields.io/github/followers/Luiss2080?label=Seguidores&style=social" alt="followers" />
@@ -23,13 +18,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,html,css,react,nodejs,express,mongodb,mysql,postgresql,git,github,vscode,docker,linux,bash,figma,photoshop&perline=10" />
 </div>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-
-
-
 
 ---
 
@@ -60,22 +48,50 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-
-<h3 align="center">🏆 Logros de GitHub</h3>
+<h2 align="center">🏆 Logros de GitHub</h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Luiss2080&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" width="100%" alt="Trophies" />
 </div>
 
-    </td>
-    <td width="50%" valign="top">
+---
 
+<h2 align="center">📬 Contáctame</h2>
 
+<div align="center">
+  <a href="https://linkedin.com/in/tu-perfil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/tu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/tu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:tu-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://facebook.com/tu-perfil" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://youtube.com/@tu-canal" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://discord.gg/tu-servidor" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://t.me/tu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://wa.me/tunumero" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://github.com/Luiss2080" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
-
+---
 
 <div align="center">
   
