@@ -3,6 +3,11 @@
 </h1>
 
 <div align="center">
+  <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" alt="Header">
+</div>
+
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bienvenido%20a%20mi%20Perfil&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Construyendo%20el%20futuro%20con%20código&descAlignY=55&descAlign=50" />
 </div>
 
