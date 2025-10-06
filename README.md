@@ -60,11 +60,11 @@
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
   Logros de GitHub
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="40">
 </h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Luiss2080&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" width="100%" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Luiss2080&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" alt="Trophies" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
