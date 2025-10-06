@@ -77,30 +77,6 @@
 
 
 
-
-### 🐍 Contribuciones
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake" />
-
-    </td>
-    <td width="33%" align="center">
-
-### 💭 Dev Joke
-
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" width="100%" alt="Joke" />
-
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luiss2080&theme=radical" width="98%" alt="Profile Summary" />
-</div>
-
----
-
 <div align="center">
   
 ### ⭐ Si te gustó mi perfil, ¡dale una estrella a mis repositorios! ⭐
