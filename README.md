@@ -75,28 +75,6 @@
 
 
 
-<h2 align="center">🌐 Conecta Conmigo</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-
-<p align="center">
-  <a href="https://www.facebook.com/share/15EUCVYLMT/?mibextid=LQQJ4d">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/luiss_990/profilecard/?igsh=MWZmbnpnMmV0OWt2OA==">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.tiktok.com/@luisss_900?_t=8rtlCE8CtKa&_r=1">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" />
-  </a>
-  <a href="https://www.linkedin.com/in/luis-rocha">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
 
 
 
