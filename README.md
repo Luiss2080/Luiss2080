@@ -73,26 +73,7 @@
     </td>
     <td width="50%" valign="top">
 
-<h3 align="center">📈 Actividad de Codificación</h3>
 
-```text
-🌞 Mañana      ⣿⣿⣿⣿⣿⣀⣀⣀   25%
-🌆 Tarde       ⣿⣿⣿⣿⣿⣿⣿⣿   45%
-🌃 Noche       ⣿⣿⣿⣿⣀⣀⣀⣀   20%
-🌙 Madrugada   ⣿⣿⣀⣀⣀⣀⣀⣀   10%
-```
-
-<h3 align="center">💡 Quote del Día</h3>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" alt="Quote" />
-</div>
-
-    </td>
-  </tr>
-</table>
-
----
 
 <h2 align="center">🌐 Conecta Conmigo</h2>
 
