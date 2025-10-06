@@ -16,7 +16,7 @@
 <h2 align="center">🛠️ Mi Tech Stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,cs,php,go,rust,kotlin,swift,ruby,r,matlab,html,css,sass,react,vue,angular,nextjs,nuxt,svelte,redux,tailwind,bootstrap,materialui,jquery,threejs,nodejs,express,nestjs,django,flask,fastapi,spring,laravel,rails,dotnet,mongodb,mysql,postgresql,redis,graphql,prisma,sequelize,firebase,supabase,docker,kubernetes,jenkins,git,github,gitlab,bitbucket,vscode,vim,idea,eclipse,visualstudio,postman,arduino,unity,unreal,godot,blender,figma,ps,linux,ubuntu,debian,redhat,bash,powershell,aws,azure,gcp,heroku,vercel,netlify,cloudflare,webpack,vite,gulp,rollup,npm,yarn,pnpm,jest,vitest,playwright&perline=15" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,cs,php,go,rust,kotlin,swift,ruby,r,matlab,html,css,sass,react,vue,angular,nextjs,nuxt,svelte,redux,tailwind,bootstrap,materialui,jquery,nodejs,express,nestjs,django,flask,fastapi,spring,laravel,rails,dotnet,mongodb,mysql,postgresql,redis,graphql,prisma,sequelize,firebase,supabase,docker,kubernetes,jenkins,git,github,gitlab,bitbucket,vscode,vim,idea,eclipse,visualstudio,postman,arduino,unity,unreal,godot,blender,figma,ps,linux,ubuntu,debian,redhat,bash,powershell,aws,azure,gcp,heroku,vercel,netlify,cloudflare,webpack,vite,gulp,rollup,npm,yarn,pnpm,jest,vitest,playwright&perline=15" />
 </div>
 
 ---
