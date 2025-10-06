@@ -8,10 +8,13 @@
   <img src="https://img.shields.io/badge/Enfoque-FullStack-brightgreen?style=flat" alt="focus" />
 </p>
 
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" />
+  Tecnologías & Herramientas
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" />
+</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,cs,php,go,rust,kotlin,swift,ruby,r,matlab,html,css,sass,react,vue,angular,nextjs,nuxt,svelte,redux,tailwind,bootstrap,materialui,jquery,nodejs,express,nestjs,django,flask,fastapi,spring,laravel,rails,dotnet,mongodb,mysql,postgresql,redis,graphql,prisma,sequelize,firebase,supabase,docker,kubernetes,jenkins,git,github,gitlab,bitbucket,vscode,vim,idea,eclipse,visualstudio,postman,arduino,unity,unreal,godot,blender,figma,ps,linux,ubuntu,debian,redhat,bash,powershell,aws,azure,gcp,heroku,vercel,netlify,cloudflare,webpack,vite,gulp,rollup,npm,yarn,pnpm,jest,vitest,playwright&perline=15" />
@@ -20,9 +23,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="35" />
   Estadísticas de GitHub
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="35" />
 </h2>
 
 <br>
@@ -67,8 +70,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">
-  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="60">
-  Contáctame
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="40" />
+  Conecta Conmigo
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" alt="Mail" width="40" />
 </h2>
 
 <div align="center">
