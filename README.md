@@ -98,79 +98,7 @@
   </a>
 </p>
 
-### 📫 ¿Cómo Contactarme?
 
-💼 Disponible para proyectos freelance  
-🤝 Abierto a colaboraciones  
-📧 Respondo rápido a mensajes  
-☕ ¡Charlemos sobre tecnología!
-
-    </td>
-    <td width="50%" valign="top">
-
-<h3 align="center">🎯 Objetivos 2025</h3>
-
-```mermaid
-mindmap
-  root((2025))
-    Aprendizaje
-      Full-Stack
-      Cloud
-      DevOps
-      AI/ML
-    Proyectos
-      Open Source
-      Web Apps
-      APIs
-      Mobile
-    Network
-      Tech Community
-      Colaborar
-      Mentoría
-    Crecimiento
-      Certificaciones
-      Portafolio
-      Contribuciones
-```
-
-    </td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">🎨 Proyectos Destacados</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Luiss2080/proyecto-destacado-1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luiss2080&repo=proyecto-destacado-1&theme=radical&hide_border=true&bg_color=0D1117" width="100%" alt="Proyecto 1"/>
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Luiss2080/proyecto-destacado-2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luiss2080&repo=proyecto-destacado-2&theme=radical&hide_border=true&bg_color=0D1117" width="100%" alt="Proyecto 2"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-<table width="100%">
-  <tr>
-    <td width="33%" align="center">
-      
-### ⚡ Curiosidades
-
-| 🎯 | 💻 | 🌟 |
-|:---:|:---:|:---:|
-| Full-Stack | JS, Python | Innovación |
-| 📚 Estudiante | 🎓 UPDS | 🇧🇴 SCZ |
-
-    </td>
-    <td width="34%" align="center">
 
 ### 🐍 Contribuciones
 
