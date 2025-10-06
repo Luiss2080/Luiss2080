@@ -16,7 +16,7 @@
 <h2 align="center">🛠️ Mi Tech Stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,html,css,react,nodejs,express,mongodb,mysql,postgresql,git,github,vscode,docker,linux,bash,figma,photoshop,c,cpp,php,ruby,go,rust,kotlin,swift,redis,nginx,postman,jenkins,firebase,aws,azure,gcp,graphql,tailwind,bootstrap,sass,vue,angular,nextjs,nestjs,django,flask,fastapi,spring,laravel,rails,flutter,androidstudio,unity,unreal,tensorflow,pytorch,opencv,pandas,numpy,selenium,cypress,jest,vitest,webpack,vite,gulp,npm,yarn,pnpm,socketio,kubernetes,elasticsearch,rabbitmq,kafka,prometheus,grafana&perline=13" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css,react,nodejs,express,mongodb,mysql,postgresql,git,github,vscode,docker,linux,bash,figma,ps,c,cpp,php,cs,go,rust,kotlin,swift,redis,nginx,postman,firebase,aws,azure,gcp,graphql,tailwind,bootstrap,sass,vue,angular,nextjs,nestjs,django,flask,fastapi,spring,laravel,flutter,unity,unreal,tensorflow,pytorch,selenium,jest,webpack,vite,npm,yarn,kubernetes,jenkins&perline=10" />
 </div>
 
 ---
