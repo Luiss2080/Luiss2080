@@ -118,14 +118,13 @@
 </div>
 
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="98%" />
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+
   
   <h3>⭐ Si te gustó mi perfil, dale una estrella a mis repositorios ⭐</h3>
   
