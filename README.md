@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bienvenido%20a%20mi%20Perfil&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Construyendo%20el%20futuro%20con%20código&descAlignY=55&descAlign=50" />
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%91%8B+Hola!+Soy+Luis+Rocha;Estudiante+de+Ing.+en+Sistemas+%F0%9F%92%BB;Explorando+el+Mundo+Digital+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
 
 <div align="center">
   <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" alt="Header">
