@@ -23,9 +23,6 @@
 
 <h2 align="center">📊 Estadísticas de GitHub</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiss2080&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" width="40%" alt="Top Languages" />
-</div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luiss2080&theme=radical" width="98%" alt="Profile Summary" />
