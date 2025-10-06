@@ -1,10 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%91%8B+Hola!+Soy+Luis+Rocha;Estudiante+de+Ing.+en+Sistemas+%F0%9F%92%BB;Explorando+el+Mundo+Digital+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
-
 <div align="center">
   <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" alt="Header">
 </div>
+</h1>
 
 
 <div align="center">
