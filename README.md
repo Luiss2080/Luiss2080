@@ -14,10 +14,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
-  Mi Tech Stack
-</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,cs,php,go,rust,kotlin,swift,ruby,r,matlab,html,css,sass,react,vue,angular,nextjs,nuxt,svelte,redux,tailwind,bootstrap,materialui,jquery,nodejs,express,nestjs,django,flask,fastapi,spring,laravel,rails,dotnet,mongodb,mysql,postgresql,redis,graphql,prisma,sequelize,firebase,supabase,docker,kubernetes,jenkins,git,github,gitlab,bitbucket,vscode,vim,idea,eclipse,visualstudio,postman,arduino,unity,unreal,godot,blender,figma,ps,linux,ubuntu,debian,redhat,bash,powershell,aws,azure,gcp,heroku,vercel,netlify,cloudflare,webpack,vite,gulp,rollup,npm,yarn,pnpm,jest,vitest,playwright&perline=15" />
