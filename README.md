@@ -34,9 +34,7 @@
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
 </h2>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luiss2080&theme=react-dark&hide_border=true&area=true" width="98%">
-</div>
+
 
 <br>
 
