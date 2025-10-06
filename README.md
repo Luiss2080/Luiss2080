@@ -10,38 +10,6 @@
   <tr>
     <td width="50%" valign="top">
       
-## 🚀 Sobre Mí
-
-```typescript
-const luisRocha = {
-    nombre: "Luis Rocha",
-    username: "Luiss2080",
-    ubicacion: "Santa Cruz 🇧🇴",
-    educacion: "Ing. en Sistemas",
-    universidad: "UPDS",
-    pasiones: [
-      "Tecnología", 
-      "Desarrollo", 
-      "Innovación"
-    ],
-    lema: "Compartir es sabiduría 💡"
-};
-```
-
-### 💫 Destacados
-- 🎓 Estudiante de Ing. en Sistemas
-- 🌱 Explorando nuevas tecnologías
-- 💡 Apasionado por el desarrollo web
-- 🎯 Siempre buscando desafíos
-- ⚡ Aprendiendo algo nuevo cada día
-
-    </td>
-    <td width="50%" valign="top">
-      <br/>
-      <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coding" width="100%"/>
-    </td>
-  </tr>
-</table>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Luiss2080&label=Visitas&color=0e75b6&style=flat" alt="views" />
