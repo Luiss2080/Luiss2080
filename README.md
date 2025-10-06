@@ -25,7 +25,7 @@
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
   Estadísticas de GitHub
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTduaTdmcnl6eDJseTAxamZlNzk5MXB5bzA3ajYxcWRiZHN4dGRxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cIn5fTcjnKs1gpXWwo/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/3oKIPnbKgN3bXeVpvy/giphy.gif" width="35">
 </h2>
 
 <br>
@@ -60,7 +60,7 @@
 <h2 align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32px" alt="Git">
   Logros de GitHub
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30">
 </h2>
 
 <div align="center">
@@ -70,9 +70,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40" />
   Conecta Conmigo
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="35">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40">
 </h2>
 
 <div align="center">
