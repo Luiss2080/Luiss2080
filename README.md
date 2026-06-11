@@ -1,18 +1,34 @@
 <div align="center">
-  <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" alt="Header">
+  <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" alt="Header" style="border-radius: 10px; box-shadow: 0 0 20px rgba(255, 28, 247, 0.3);">
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF1CF7&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;💻+Innovador+%26+Apasionado;🌟+Siempre+Aprendiendo" alt="Typing SVG" />
+</div>
+
+<br>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Luiss2080&label=Visitas&color=0e75b6&style=flat" alt="views" />
-  <img src="https://img.shields.io/github/followers/Luiss2080?label=Seguidores&style=social" alt="followers" />
-  <img src="https://img.shields.io/badge/Enfoque-FullStack-brightgreen?style=flat" alt="focus" />
+  <img src="https://komarev.com/ghpvc/?username=Luiss2080&label=👀+Visitas&color=FF1CF7&style=for-the-badge" alt="views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/Luiss2080?label=👥+Seguidores&style=for-the-badge&color=FF1CF7" alt="followers" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🎯+Enfoque-FullStack-FF1CF7?style=for-the-badge" alt="focus" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div align="center">
+  <img src="https://img.shields.io/badge/⚡-Dynamic-FF1CF7?style=for-the-badge" alt="Dynamic" />
+  <img src="https://img.shields.io/badge/✨-Modern-FF1CF7?style=for-the-badge" alt="Modern" />
+  <img src="https://img.shields.io/badge/🎨-Creative-FF1CF7?style=for-the-badge" alt="Creative" />
+</div>
+
+---
+
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
-  Tecnologías & Herramientas
+  ⚙️ Tecnologías & Herramientas
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 </h2>
 
@@ -22,9 +38,17 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div align="center">
+  <img src="https://img.shields.io/badge/🔥-Powerful-FF1CF7?style=for-the-badge" alt="Powerful" />
+  <img src="https://img.shields.io/badge/💪-Robust-FF1CF7?style=for-the-badge" alt="Robust" />
+  <img src="https://img.shields.io/badge/⚡-Efficient-FF1CF7?style=for-the-badge" alt="Efficient" />
+</div>
+
+---
+
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
-  Estadísticas de GitHub
+  📊 Estadísticas de GitHub
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 </h2>
 
@@ -49,9 +73,17 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div align="center">
+  <img src="https://img.shields.io/badge/📈-Growing-FF1CF7?style=for-the-badge" alt="Growing" />
+  <img src="https://img.shields.io/badge/🎯-Focused-FF1CF7?style=for-the-badge" alt="Focused" />
+  <img src="https://img.shields.io/badge/🚀-Ambitious-FF1CF7?style=for-the-badge" alt="Ambitious" />
+</div>
+
+---
+
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
-  Logros de GitHub
+  🏆 Logros & Trofeos
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="40">
 </h2>
 
@@ -61,9 +93,17 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div align="center">
+  <img src="https://img.shields.io/badge/⭐-Excellence-FF1CF7?style=for-the-badge" alt="Excellence" />
+  <img src="https://img.shields.io/badge/🎖️-Achievement-FF1CF7?style=for-the-badge" alt="Achievement" />
+  <img src="https://img.shields.io/badge/👑-Champion-FF1CF7?style=for-the-badge" alt="Champion" />
+</div>
+
+---
+
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
-  Estadísticas Detalladas
+  📈 Análisis Detallado
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 </h2>
 
@@ -89,56 +129,98 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div align="center">
+  <img src="https://img.shields.io/badge/💡-Insightful-FF1CF7?style=for-the-badge" alt="Insightful" />
+  <img src="https://img.shields.io/badge/🔍-Detailed-FF1CF7?style=for-the-badge" alt="Detailed" />
+  <img src="https://img.shields.io/badge/📊-Comprehensive-FF1CF7?style=for-the-badge" alt="Comprehensive" />
+</div>
+
+---
+
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
-  Conecta Conmigo
+  🌐 Conecta Conmigo
   <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40" />
 </h2>
 
+<br>
+
 <div align="center">
+  <h3>📱 Redes Principales</h3>
   <a href="https://linkedin.com/in/tu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://twitter.com/tu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://instagram.com/tu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:tu-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
+  <h3>🎮 Comunidades</h3>
   <a href="https://facebook.com/tu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://youtube.com/@tu-canal" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" alt="YouTube" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://discord.gg/tu-servidor" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord" />
   </a>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>💬 Mensajería Directa</h3>
   <a href="https://t.me/tu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" alt="Telegram" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://wa.me/tunumero" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp" />
   </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
+  <img src="https://img.shields.io/badge/💬-Conecta-FF1CF7?style=for-the-badge" alt="Connect" />
+  <img src="https://img.shields.io/badge/🤝-Colabora-FF1CF7?style=for-the-badge" alt="Collaborate" />
+  <img src="https://img.shields.io/badge/📬-Contáctame-FF1CF7?style=for-the-badge" alt="Contact" />
+</div>
+
+---
+
+<br>
+
+<div align="center">
   
-### ⭐ Si te gustó mi perfil, dale una estrella a mis repositorios ⭐
+### 🌟 ¡Gracias por Visitarme! 🌟
 
-**Hecho con ❤️ por Luis Rocha | 2025**
+**Si te gustó mi perfil, considera darle una ⭐ a mis repositorios** ✨
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF1CF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+💻;Always+learning+new+things+🚀;Let's+build+something+amazing!+✨" alt="Typing SVG" />
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=FF1CF7&center=true&vCenter=true&width=600&lines=💡+Siempre+innovando;🔧+Resolviendo+problemas+complejos;🚀+Construyendo+el+futuro;❤️+Con+pasión+y+dedicación" alt="Typing SVG" />
+
+<br>
+
+**Hecho con ❤️ y mucho café ☕ por Luis Rocha | 2025**
+
+<br>
 
 </div>
 
