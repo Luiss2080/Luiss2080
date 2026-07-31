@@ -2,12 +2,6 @@
   <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" alt="Header">
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Luiss2080&label=Visitas&color=0e75b6&style=flat" alt="views" />
-  <img src="https://img.shields.io/github/followers/Luiss2080?label=Seguidores&style=social" alt="followers" />
-  <img src="https://img.shields.io/badge/Enfoque-FullStack-brightgreen?style=flat" alt="focus" />
-</p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
