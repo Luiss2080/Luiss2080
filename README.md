@@ -10,9 +10,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
+<h1 align="center">
+  <sub></sub>💻 Full Stack Developer 🚀
+</h1>
+<p align="center">
+  <sub>Siempre aprendiendo algo nuevo</sub>
+</p>
 
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
@@ -26,7 +29,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
   Logros de GitHub
@@ -34,12 +36,9 @@
 </h2>
 
 <!--
-  FIX (actualizado): el proveedor original (github-profile-trophy.vercel.app)
-  y su espejo comunitario "-winning" siguen saturándose/caídos con frecuencia
-  (ver issues del repo ryo-ma/github-profile-trophy). Se cambió al fork
-  activamente mantenido de lucthienphong1120 (github-trophies.vercel.app),
-  que replica el mismo servicio con mejor disponibilidad.
-  Repo: https://github.com/lucthienphong1120/github-trophies
+  El proveedor original (github-profile-trophy.vercel.app) y su espejo
+  "-winning" se saturan/caen con frecuencia. Se usa el fork mantenido
+  activamente de lucthienphong1120: https://github.com/lucthienphong1120/github-trophies
 -->
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=Luiss2080&theme=radical&no-frame=true&no-bg=true&row=2&column=4" width="98%" alt="GitHub Trophies" />
@@ -75,20 +74,64 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--
-  Sección nueva: gráfico de contribuciones estilo "snake" animado.
-  Requiere activar una GitHub Action (gratuita y oficial) en tu repo
-  Luiss2080/Luiss2080 para que se genere. Guía: Platane/snk en GitHub.
-  Una vez activa, esta imagen se anima sola y se actualiza cada día.
--->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
   Contribuciones
 </h2>
 
+<!--
+  CAMBIO DE PROVEEDOR: la animación "snake" (Platane/snk) depende de una
+  GitHub Action que corre en TU repo Luiss2080/Luiss2080. Si esa Action no
+  está configurada o falló, el SVG queda roto (por eso viste el ícono
+  de "imagen rota" en tu captura). Para que esta sección funcione sin que
+  dependa de una Action tuya, se usa github-readme-activity-graph, que
+  genera la imagen en vivo igual que tus otras tarjetas de stats.
+  Fuente: https://github.com/Ashutosh00710/github-readme-activity-graph
+-->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Luiss2080/Luiss2080/output/github-contribution-grid-snake-dark.svg" width="98%" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luiss2080&theme=react-dark&hide_border=true&area=true" width="98%" alt="Activity Graph" />
 </div>
+
+<details>
+<summary align="center"><b>¿Quieres además el snake original? (clic para ver cómo activarlo)</b></summary>
+<br>
+
+El snake de contribuciones (Platane/snk) es más vistoso, pero requiere que actives una GitHub Action en tu repo `Luiss2080/Luiss2080`. Pasos:
+
+1. Crea el archivo `.github/workflows/snake.yml` en ese repo con este contenido:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Luiss2080
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+```
+
+2. En **Settings → Actions → General → Workflow permissions**, activa "Read and write permissions".
+3. Corre la Action manualmente una vez (workflow_dispatch) para generar la primera versión.
+
+Una vez activa, puedes reemplazar la tarjeta de arriba por:
+`https://raw.githubusercontent.com/Luiss2080/Luiss2080/output/github-contribution-grid-snake-dark.svg`
+
+</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -98,40 +141,43 @@
   <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40" />
 </h2>
 
-<div align="center">
+<!--
+  Íconos sociales modernizados: se cambia el estilo "for-the-badge"
+  (rectángulo con texto) por logos planos a color de Simple Icons,
+  más grandes y limpios — look más actual en perfiles de GitHub.
+  NOTA: el efecto hover real no es posible (GitHub elimina <style>/CSS
+  de los README), así que el "modernismo" viene del tamaño, el color
+  de marca y el espaciado, no de una animación al pasar el cursor.
+-->
+<p align="center">
   <a href="https://linkedin.com/in/tu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
   <a href="https://twitter.com/tu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+    <img src="https://cdn.simpleicons.org/x/000000" width="42" height="42" alt="X / Twitter" />
+  </a>&nbsp;&nbsp;
   <a href="https://instagram.com/tu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" height="42" alt="Instagram" />
+  </a>&nbsp;&nbsp;
   <a href="mailto:tu-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" alt="Gmail" />
+  </a>&nbsp;&nbsp;
   <a href="https://facebook.com/tu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="42" height="42" alt="Facebook" />
+  </a>&nbsp;&nbsp;
   <a href="https://youtube.com/@tu-canal" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="42" height="42" alt="YouTube" />
+  </a>&nbsp;&nbsp;
   <a href="https://discord.gg/tu-servidor" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="42" height="42" alt="Discord" />
+  </a>&nbsp;&nbsp;
   <a href="https://t.me/tu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="42" height="42" alt="Telegram" />
+  </a>&nbsp;&nbsp;
   <a href="https://wa.me/tunumero" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="42" height="42" alt="WhatsApp" />
   </a>
-</div>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -141,6 +187,6 @@
 
 *Hecho con ❤️ por Luis Rocha | 2025*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF1CF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+💻;Always+learning+new+things+🚀;Let's+build+something+amazing!+✨" alt="Typing SVG" />
+<h3>💻 Full Stack Developer &nbsp;|&nbsp; Siempre aprendiendo cosas nuevas 🚀 &nbsp;|&nbsp; ¡Construyamos algo increíble! ✨</h3>
 
 </div>
