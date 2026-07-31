@@ -30,9 +30,16 @@
 
 <br>
 
+<!--
+  FIX: se agregó &cache_seconds=86400 a stats y top-langs.
+  Esto le dice a la instancia pública que reutilice la respuesta cacheada
+  durante 24h en lugar de volver a pedirle datos a la API de GitHub cada
+  vez que alguien visita tu perfil. Así se evita el "rate limit" que
+  hacía que las tarjetas no cargaran.
+-->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luiss2080&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FF1CF7&icon_color=FF1CF7&text_color=FFFFFF&rank_icon=github" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiss2080&theme=radical&hide_border=true&layout=compact&langs_count=10&bg_color=0D1117&title_color=FF1CF7&text_color=FFFFFF&card_width=400" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Luiss2080&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FF1CF7&icon_color=FF1CF7&text_color=FFFFFF&rank_icon=github&cache_seconds=86400" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiss2080&theme=radical&hide_border=true&layout=compact&langs_count=10&bg_color=0D1117&title_color=FF1CF7&text_color=FFFFFF&card_width=400&cache_seconds=86400" width="49%" alt="Top Languages" />
 </div>
 
 <br>
@@ -55,9 +62,24 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="40">
 </h2>
 
+<!--
+  FIX: la instancia oficial github-profile-trophy.vercel.app está saturada
+  con mucha frecuencia (issue #439 del repo ryo-ma/github-profile-trophy).
+  Se cambió al espejo comunitario de hongbo-wei, creado específicamente
+  para repartir esa carga. Si en el futuro este también falla, hay más
+  espejos listados abajo para rotar.
+-->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Luiss2080&theme=radical&no-frame=true&no-bg=true&row=2&column=4" width="98%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=Luiss2080&theme=radical&no-frame=true&no-bg=true&row=2&column=4" width="98%" alt="GitHub Trophies" />
 </div>
+
+<!--
+  Espejos alternativos si el de arriba también se satura (usar solo uno a la vez):
+  https://github-profile-trophy-liard-delta.vercel.app/?username=Luiss2080
+  https://github-profile-trophy-fork-two.vercel.app/?username=Luiss2080
+  https://github-profile-trophy-kannan.vercel.app/?username=Luiss2080
+  Solución definitiva: desplegar tu propia instancia (ver notas al final del archivo).
+-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -133,7 +155,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  
+
 ### ⭐ Si te gustó mi perfil, dale una estrella a mis repositorios ⭐
 
 *Hecho con ❤️ por Luis Rocha | 2025*
@@ -143,3 +165,32 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+<!--
+  ============================================================
+  NOTAS PARA TI (no se ven en tu perfil de GitHub):
+
+  Por qué fallaban Stats, Top Languages y Trophies:
+  Todas usan instancias PÚBLICAS y GRATUITAS en Vercel, compartidas
+  por miles de perfiles. GitHub solo permite 5,000 peticiones/hora
+  por token, así que cuando muchos usuarios piden datos al mismo
+  tiempo, la instancia pública se queda sin cupo y devuelve error
+  ("Something went wrong") o simplemente no carga la imagen.
+
+  Arreglo aplicado en este archivo:
+  1. cache_seconds=86400 en stats/top-langs -> reutiliza resultados
+     cacheados por 24h, reduciendo drásticamente las peticiones.
+  2. Trophy cambiado a un espejo comunitario menos saturado.
+
+  Solución 100% definitiva (recomendada si vuelve a fallar):
+  1. Haz fork de https://github.com/anuraghazra/github-readme-stats
+     y de https://github.com/ryo-ma/github-profile-trophy
+  2. Despliega cada fork en Vercel (gratis) desde tu propia cuenta.
+  3. Genera un Personal Access Token en GitHub (scopes: public_repo,
+     read:user) y agrégalo como variable de entorno PAT_1 en Vercel.
+  4. Reemplaza github-readme-stats.vercel.app y
+     github-profile-trophy.vercel.app por la URL de tu propio
+     despliegue (algo como tu-proyecto.vercel.app) en este archivo.
+  Así el límite de 5,000 peticiones/hora es solo tuyo, no compartido.
+  ============================================================
+-->
