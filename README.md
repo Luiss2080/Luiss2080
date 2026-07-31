@@ -22,7 +22,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
   Logros de GitHub
@@ -30,22 +29,20 @@
 </h2>
 
 <!--
-  FIX: la instancia oficial github-profile-trophy.vercel.app está saturada
-  con mucha frecuencia (issue #439 del repo ryo-ma/github-profile-trophy).
-  Se cambió al espejo comunitario de hongbo-wei, creado específicamente
-  para repartir esa carga. Si en el futuro este también falla, hay más
-  espejos listados abajo para rotar.
+  Se usa la instancia oficial de ryo-ma/github-profile-trophy, que es la
+  más mantenida y estable. row/column aumentados para que se vean más
+  grandes y se muestren más trofeos de una vez. margin-w/margin-h dan
+  más espacio entre cada uno para que no se vean apretados.
 -->
 <div align="center">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=Luiss2080&theme=radical&no-frame=true&no-bg=true&row=2&column=4" width="98%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Luiss2080&theme=radical&no-frame=true&no-bg=true&row=3&column=4&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies" />
 </div>
 
 <!--
-  Espejos alternativos si el de arriba también se satura (usar solo uno a la vez):
-  https://github-profile-trophy-liard-delta.vercel.app/?username=Luiss2080
-  https://github-profile-trophy-fork-two.vercel.app/?username=Luiss2080
-  https://github-profile-trophy-kannan.vercel.app/?username=Luiss2080
-  Solución definitiva: desplegar tu propia instancia (ver notas al final del archivo).
+  Si la instancia oficial llegara a saturarse de nuevo, descomenta UNA
+  de estas alternativas (mismo formato de parámetros):
+  https://github-profile-trophy-liard-delta.vercel.app/?username=Luiss2080&theme=radical&no-frame=true&no-bg=true&row=3&column=4
+  https://github-profile-trophy-fork-two.vercel.app/?username=Luiss2080&theme=radical&no-frame=true&no-bg=true&row=3&column=4
 -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -55,6 +52,20 @@
   Estadísticas Detalladas
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 </h2>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luiss2080&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" width="49%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Luiss2080&theme=radical&hide_border=true" width="49%" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiss2080&layout=compact&theme=radical&hide_border=true&langs_count=10" width="49%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Luiss2080&theme=radical&utcOffset=-4" width="49%" alt="Productive Time" />
+</div>
 
 <br>
 
@@ -72,8 +83,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luiss2080&theme=radical" width="49%" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Luiss2080&theme=radical&utcOffset=-4" width="49%" alt="Productive Time" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luiss2080&theme=redical&hide_border=true" width="98%" alt="Activity Graph" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -130,4 +140,3 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF1CF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+💻;Always+learning+new+things+🚀;Let's+build+something+amazing!+✨" alt="Typing SVG" />
 
 </div>
-
