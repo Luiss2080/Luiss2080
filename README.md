@@ -20,11 +20,11 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=110&section=header&text=%3E%20Full_Stack_Developer()&fontSize=28&fontColor=39FF14&fontAlignY=40&fontAlign=50&desc=%3E%20siempre_aprendiendo_algo_nuevo...&descSize=18&descAlignY=68&descColor=39FF14" width="98%" alt="Banner" />
 </div>
 
-<div align="center">
+<h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=55&text=%3E%20Tecnolog%C3%ADas%20%26%20Herramientas&fontSize=20&fontColor=39FF14&fontAlignY=55" width="55%" alt="Tecnologías & Herramientas" />
+  Tecnologías & Herramientas
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-</div>
+</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,cs,php,go,rust,kotlin,swift,ruby,r,matlab,html,css,sass,react,vue,angular,nextjs,nuxt,svelte,redux,tailwind,bootstrap,materialui,jquery,nodejs,express,nestjs,django,flask,fastapi,spring,laravel,rails,dotnet,mongodb,mysql,postgresql,redis,graphql,prisma,sequelize,firebase,supabase,docker,kubernetes,jenkins,git,github,gitlab,bitbucket,vscode,vim,idea,eclipse,visualstudio,postman,arduino,unity,unreal,godot,blender,figma,ps,linux,ubuntu,debian,redhat,bash,powershell,aws,azure,gcp,heroku,vercel,netlify,cloudflare,webpack,vite,gulp,rollup,npm,yarn,pnpm,jest,vitest,playwright&perline=15" />
@@ -33,11 +33,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<div align="center">
+<h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=55&text=%3E%20Logros%20de%20GitHub&fontSize=20&fontColor=39FF14&fontAlignY=55" width="45%" alt="Logros de GitHub" />
+  Logros de GitHub
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="40">
-</div>
+</h2>
 
 <!--
   FIX (actualizado): el proveedor original (github-profile-trophy.vercel.app)
@@ -53,11 +53,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
+<h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=55&text=%3E%20Estad%C3%ADsticas%20Detalladas&fontSize=20&fontColor=39FF14&fontAlignY=55" width="50%" alt="Estadísticas Detalladas" />
+  Estadísticas Detalladas
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-</div>
+</h2>
 
 <br>
 
@@ -81,11 +81,34 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
+<!--
+  FIX: la animación "snake" (Platane/snk) requiere que actives una GitHub Action
+  en tu propio repo Luiss2080/Luiss2080 para generarse cada día; si nunca se
+  activó o falló, la imagen no existe (por eso salía rota).
+  Se reemplazó por github-readme-activity-graph, que funciona al instante
+  solo con tu username, sin necesidad de configurar ninguna Action.
+  Repo: https://github.com/Ashutosh00710/github-readme-activity-graph
+
+  Si en algún momento SÍ quieres el snake, la guía está en:
+  https://github.com/Platane/snk (necesitas crear el workflow en
+  .github/workflows/ de tu repo Luiss2080/Luiss2080).
+-->
+<h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=55&text=%3E%20Conecta%20Conmigo&fontSize=20&fontColor=39FF14&fontAlignY=55" width="40%" alt="Conecta Conmigo" />
-  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40" />
+  Contribuciones
+</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luiss2080&theme=react-dark&hide_border=true&area=true" width="98%" alt="Activity Graph" />
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
+  Conecta Conmigo
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40" />
+</h2>
 
 <div align="center">
   <a href="https://linkedin.com/in/tu-perfil" target="_blank">
