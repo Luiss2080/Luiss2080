@@ -10,12 +10,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--
-  FIX: se reemplazó el banner "readme-typing-svg" (que escribía/borraba el texto en bucle)
-  por un banner ESTÁTICO generado con capsule-render (type=rect), con tipografía
-  monoespaciada y color verde consola. No hay animación de aparecer/desaparecer,
-  el texto queda fijo desde que carga.
--->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=110&section=header&text=%3E%20Full_Stack_Developer()&fontSize=28&fontColor=39FF14&fontAlignY=40&fontAlign=50&desc=%3E%20siempre_aprendiendo_algo_nuevo...&descSize=18&descAlignY=68&descColor=39FF14" width="98%" alt="Banner" />
 </div>
@@ -39,14 +33,6 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="40">
 </h2>
 
-<!--
-  FIX (actualizado): el proveedor original (github-profile-trophy.vercel.app)
-  y su espejo comunitario "-winning" siguen saturándose/caídos con frecuencia
-  (ver issues del repo ryo-ma/github-profile-trophy). Se cambió al fork
-  activamente mantenido de lucthienphong1120 (github-trophies.vercel.app),
-  que replica el mismo servicio con mejor disponibilidad.
-  Repo: https://github.com/lucthienphong1120/github-trophies
--->
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=Luiss2080&theme=radical&no-frame=true&no-bg=true&row=2&column=4" width="98%" alt="GitHub Trophies" />
 </div>
@@ -77,29 +63,6 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luiss2080&theme=radical" width="49%" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Luiss2080&theme=radical&utcOffset=-4" width="49%" alt="Productive Time" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--
-  FIX: la animación "snake" (Platane/snk) requiere que actives una GitHub Action
-  en tu propio repo Luiss2080/Luiss2080 para generarse cada día; si nunca se
-  activó o falló, la imagen no existe (por eso salía rota).
-  Se reemplazó por github-readme-activity-graph, que funciona al instante
-  solo con tu username, sin necesidad de configurar ninguna Action.
-  Repo: https://github.com/Ashutosh00710/github-readme-activity-graph
-
-  Si en algún momento SÍ quieres el snake, la guía está en:
-  https://github.com/Platane/snk (necesitas crear el workflow en
-  .github/workflows/ de tu repo Luiss2080/Luiss2080).
--->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
-  Contribuciones
-</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luiss2080&theme=react-dark&hide_border=true&area=true" width="98%" alt="Activity Graph" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
