@@ -8,6 +8,12 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=110&section=header&text=%3E%20Full_Stack_Developer()&fontSize=28&fontColor=39FF14&fontAlignY=40&fontAlign=50&desc=%3E%20siempre_aprendiendo_algo_nuevo...&descSize=18&descAlignY=68&descColor=39FF14" width="98%" alt="Banner" />
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Luiss2080&label=Visitas&color=0e75b6&style=flat" alt="views" />
+  <img src="https://img.shields.io/github/followers/Luiss2080?label=Seguidores&style=social" alt="followers" />
+  <img src="https://img.shields.io/badge/Enfoque-FullStack-brightgreen?style=flat" alt="focus" />
+</p>
+
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
   Tecnologías & Herramientas
