@@ -1,14 +1,24 @@
 <div align="center">
-  <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" alt="Header">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Luis%20Rocha&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=55&descSize=22" width="100%"/>
+
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Luiss2080&label=Visitas&color=0e75b6&style=flat" alt="views" />
-  <img src="https://img.shields.io/github/followers/Luiss2080?label=Seguidores&style=social" alt="followers" />
-  <img src="https://img.shields.io/badge/Enfoque-FullStack-brightgreen?style=flat" alt="focus" />
+  <img src="https://komarev.com/ghpvc/?username=Luiss2080&label=Visitas&color=6a11cb&style=for-the-badge" alt="views" />
+  <img src="https://img.shields.io/github/followers/Luiss2080?label=Seguidores&style=for-the-badge&color=2575fc" alt="followers" />
+  <img src="https://img.shields.io/badge/Enfoque-FullStack-brightgreen?style=for-the-badge" alt="focus" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=6A11CBFF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;Construyendo+cosas+increibles+%F0%9F%9A%80;Siempre+aprendiendo+algo+nuevo+%E2%9C%A8" alt="Typing SVG" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="4px">
+</div>
 
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
@@ -20,7 +30,11 @@
   <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,cs,php,go,rust,kotlin,swift,ruby,r,matlab,html,css,sass,react,vue,angular,nextjs,nuxt,svelte,redux,tailwind,bootstrap,materialui,jquery,nodejs,express,nestjs,django,flask,fastapi,spring,laravel,rails,dotnet,mongodb,mysql,postgresql,redis,graphql,prisma,sequelize,firebase,supabase,docker,kubernetes,jenkins,git,github,gitlab,bitbucket,vscode,vim,idea,eclipse,visualstudio,postman,arduino,unity,unreal,godot,blender,figma,ps,linux,ubuntu,debian,redhat,bash,powershell,aws,azure,gcp,heroku,vercel,netlify,cloudflare,webpack,vite,gulp,rollup,npm,yarn,pnpm,jest,vitest,playwright&perline=15" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="4px">
+</div>
 
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
@@ -28,24 +42,44 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="40">
 </h2>
 
-<!--
-  Se usa la instancia oficial de ryo-ma/github-profile-trophy, que es la
-  más mantenida y estable. row/column aumentados para que se vean más
-  grandes y se muestren más trofeos de una vez. margin-w/margin-h dan
-  más espacio entre cada uno para que no se vean apretados.
--->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Luiss2080&theme=radical&no-frame=true&no-bg=true&row=3&column=4&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Luiss2080&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies" />
 </div>
 
-<!--
-  Si la instancia oficial llegara a saturarse de nuevo, descomenta UNA
-  de estas alternativas (mismo formato de parámetros):
-  https://github-profile-trophy-liard-delta.vercel.app/?username=Luiss2080&theme=radical&no-frame=true&no-bg=true&row=3&column=4
-  https://github-profile-trophy-fork-two.vercel.app/?username=Luiss2080&theme=radical&no-frame=true&no-bg=true&row=3&column=4
--->
+<br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="4px">
+</div>
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
+  Actividad de Contribuciones
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luiss2080&theme=react-dark&hide_border=true&area=true" width="98%" alt="Activity Graph" />
+</div>
+
+<br>
+
+<!--
+  Snake animado: se genera con una GitHub Action (no un servicio externo,
+  así que nunca deja de funcionar). Para activarlo en tu repo Luiss2080/Luiss2080:
+  1. Crea .github/workflows/snake.yml con el workflow oficial de Platane/snk
+  2. Corre la Action una vez (o espera al cron) para que genere el SVG
+  3. El <img> de abajo apunta al output que esa Action publica en la rama "output"
+-->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Luiss2080/Luiss2080/output/github-contribution-grid-snake-dark.svg" width="98%" alt="Snake animation" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="4px">
+</div>
 
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
@@ -56,8 +90,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luiss2080&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" width="49%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Luiss2080&theme=radical&hide_border=true" width="49%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Luiss2080&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luiss2080&theme=radical&hide_border=true" width="49%" alt="Streak Stats" />
 </div>
 
 <br>
@@ -76,17 +110,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luiss2080&theme=radical" width="49%" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luiss2080&theme=radical" width="49%" alt="Most Commit Language" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="4px">
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luiss2080&theme=redical&hide_border=true" width="98%" alt="Activity Graph" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
@@ -129,7 +154,7 @@
   </a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 <div align="center">
 
@@ -137,6 +162,6 @@
 
 *Hecho con ❤️ por Luis Rocha | 2025*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF1CF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+💻;Always+learning+new+things+🚀;Let's+build+something+amazing!+✨" alt="Typing SVG" />
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
