@@ -22,39 +22,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
-  Estadísticas de GitHub
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-</h2>
-
-<br>
-
-<!--
-  FIX (actualizado): github-readme-stats.vercel.app (la instancia oficial)
-  está caída/pausada ahora mismo -- verificado directamente, no es un
-  problema de caché ni de tu perfil. Se cambió al dominio del fork
-  "github-readme-stats-fast" (mantenido por Pranesh-2005), que sí está
-  respondiendo en este momento. Usa los mismos parámetros que la original.
--->
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Luiss2080&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FF1CF7&icon_color=FF1CF7&text_color=FFFFFF&rank_icon=github" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Luiss2080&theme=radical&hide_border=true&layout=compact&langs_count=10&bg_color=0D1117&title_color=FF1CF7&text_color=FFFFFF&card_width=400" width="49%" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Luiss2080&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=FF1CF7&fire=FF1CF7&currStreakLabel=FF1CF7&sideLabels=FF1CF7&dates=FFFFFF" width="98%" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luiss2080&custom_title=Gráfico%20de%20Contribuciones&theme=github-compact&hide_border=true&bg_color=0D1117&color=FF1CF7&line=FF1CF7&point=FFFFFF&area=true&area_color=FF1CF7" width="98%" alt="Contribution Graph" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
