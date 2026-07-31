@@ -10,8 +10,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!--
+  FIX: se reemplazó el banner "readme-typing-svg" (que escribía/borraba el texto en bucle)
+  por un banner ESTÁTICO generado con capsule-render (type=rect), con tipografía
+  monoespaciada y color verde consola. No hay animación de aparecer/desaparecer,
+  el texto queda fijo desde que carga.
+-->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=110&section=header&text=%3E%20Full_Stack_Developer()&fontSize=28&fontColor=39FF14&fontAlignY=40&fontAlign=50&desc=%3E%20siempre_aprendiendo_algo_nuevo...&descSize=18&descAlignY=68&descColor=39FF14" width="98%" alt="Banner" />
 </div>
 
 <h2 align="center">
@@ -76,10 +82,16 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--
-  Sección nueva: gráfico de contribuciones estilo "snake" animado.
-  Requiere activar una GitHub Action (gratuita y oficial) en tu repo
-  Luiss2080/Luiss2080 para que se genere. Guía: Platane/snk en GitHub.
-  Una vez activa, esta imagen se anima sola y se actualiza cada día.
+  FIX: la animación "snake" (Platane/snk) requiere que actives una GitHub Action
+  en tu propio repo Luiss2080/Luiss2080 para generarse cada día; si nunca se
+  activó o falló, la imagen no existe (por eso salía rota).
+  Se reemplazó por github-readme-activity-graph, que funciona al instante
+  solo con tu username, sin necesidad de configurar ninguna Action.
+  Repo: https://github.com/Ashutosh00710/github-readme-activity-graph
+
+  Si en algún momento SÍ quieres el snake, la guía está en:
+  https://github.com/Platane/snk (necesitas crear el workflow en
+  .github/workflows/ de tu repo Luiss2080/Luiss2080).
 -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
@@ -87,7 +99,7 @@
 </h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Luiss2080/Luiss2080/output/github-contribution-grid-snake-dark.svg" width="98%" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luiss2080&theme=react-dark&hide_border=true&area=true" width="98%" alt="Activity Graph" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -141,6 +153,9 @@
 
 *Hecho con ❤️ por Luis Rocha | 2025*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF1CF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+💻;Always+learning+new+things+🚀;Let's+build+something+amazing!+✨" alt="Typing SVG" />
+<!--
+  FIX: banner estático (mismo cambio que arriba) en vez del typing-svg animado.
+-->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=90&section=header&text=Full_Stack_Developer()&fontSize=22&fontColor=39FF14&fontAlignY=35&desc=Let's_build_something_amazing!&descSize=16&descAlignY=65&descColor=39FF14" width="80%" alt="Footer banner" />
 
 </div>
