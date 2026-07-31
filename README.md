@@ -31,15 +31,15 @@
 <br>
 
 <!--
-  FIX: se agregó &cache_seconds=86400 a stats y top-langs.
-  Esto le dice a la instancia pública que reutilice la respuesta cacheada
-  durante 24h en lugar de volver a pedirle datos a la API de GitHub cada
-  vez que alguien visita tu perfil. Así se evita el "rate limit" que
-  hacía que las tarjetas no cargaran.
+  FIX (actualizado): github-readme-stats.vercel.app (la instancia oficial)
+  está caída/pausada ahora mismo -- verificado directamente, no es un
+  problema de caché ni de tu perfil. Se cambió al dominio del fork
+  "github-readme-stats-fast" (mantenido por Pranesh-2005), que sí está
+  respondiendo en este momento. Usa los mismos parámetros que la original.
 -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luiss2080&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FF1CF7&icon_color=FF1CF7&text_color=FFFFFF&rank_icon=github&cache_seconds=86400" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiss2080&theme=radical&hide_border=true&layout=compact&langs_count=10&bg_color=0D1117&title_color=FF1CF7&text_color=FFFFFF&card_width=400&cache_seconds=86400" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Luiss2080&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FF1CF7&icon_color=FF1CF7&text_color=FFFFFF&rank_icon=github" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Luiss2080&theme=radical&hide_border=true&layout=compact&langs_count=10&bg_color=0D1117&title_color=FF1CF7&text_color=FFFFFF&card_width=400" width="49%" alt="Top Languages" />
 </div>
 
 <br>
@@ -184,6 +184,16 @@
 
   Solución 100% definitiva (recomendada si vuelve a fallar):
   1. Haz fork de https://github.com/anuraghazra/github-readme-stats
+     y de https://github.com/ryo-ma/github-profile-trophy
+  2. Despliega cada fork en Vercel (gratis) desde tu propia cuenta.
+  3. Genera un Personal Access Token en GitHub (scopes: public_repo,
+     read:user) y agrégalo como variable de entorno PAT_1 en Vercel.
+  4. Reemplaza github-readme-stats.vercel.app y
+     github-profile-trophy.vercel.app por la URL de tu propio
+     despliegue (algo como tu-proyecto.vercel.app) en este archivo.
+  Así el límite de 5,000 peticiones/hora es solo tuyo, no compartido.
+  ============================================================
+-->
      y de https://github.com/ryo-ma/github-profile-trophy
   2. Despliega cada fork en Vercel (gratis) desde tu propia cuenta.
   3. Genera un Personal Access Token en GitHub (scopes: public_repo,
