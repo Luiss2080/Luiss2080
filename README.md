@@ -4,9 +4,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=110&section=header&text=%3E%20Full_Stack_Developer()&fontSize=28&fontColor=39FF14&fontAlignY=40&fontAlign=50&desc=%3E%20siempre_aprendiendo_algo_nuevo...&descSize=18&descAlignY=68&descColor=39FF14" width="98%" alt="Banner" />
-</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Luiss2080&label=Visitas&color=0e75b6&style=flat" alt="views" />
