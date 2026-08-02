@@ -2,7 +2,6 @@
   <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" alt="Header">
 </div>
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
@@ -12,7 +11,7 @@
 </p>
 
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px" />
   Tecnologías & Herramientas
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 </h2>
@@ -23,9 +22,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px" />
   Logros de GitHub
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="40">
 </h2>
@@ -37,7 +35,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px" />
   Estadísticas Detalladas
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 </h2>
@@ -45,27 +43,24 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luiss2080&theme=radical" width="98%" alt="Profile Details" />
+  <!-- Estadísticas generales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Luiss2080&show_icons=true&theme=radical" width="49%" alt="GitHub Stats" />
+  
+  <!-- Lenguajes más usados -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiss2080&layout=compact&theme=radical" width="49%" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luiss2080&theme=radical" width="49%" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luiss2080&theme=radical" width="49%" alt="Most Commit Language" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luiss2080&theme=radical" width="49%" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Luiss2080&theme=radical&utcOffset=-4" width="49%" alt="Productive Time" />
+  <!-- Gráfico de actividad -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luiss2080&theme=radical" width="98%" alt="Activity Graph" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px" />
   Conecta Conmigo
   <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40" />
 </h2>
@@ -113,9 +108,6 @@
 
 *Hecho con ❤️ por Luis Rocha | 2025*
 
-<!--
-  FIX: banner estático (mismo cambio que arriba) en vez del typing-svg animado.
--->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=90&section=header&text=Full_Stack_Developer()&fontSize=22&fontColor=39FF14&fontAlignY=35&desc=Let's_build_something_amazing!&descSize=16&descAlignY=65&descColor=39FF14" width="80%" alt="Footer banner" />
 
 </div>
