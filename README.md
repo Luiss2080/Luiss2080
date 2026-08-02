@@ -54,7 +54,7 @@
 
 <div align="center">
   <!-- Gráfico de actividad -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luiss2080&theme=radical" width="98%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luiss2080&theme=radical&hide_border=true" width="98%" alt="Activity Graph" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
